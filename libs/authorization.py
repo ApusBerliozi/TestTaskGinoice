@@ -24,4 +24,4 @@ def check_token(request):
             token = token_parts[1]
             return token
         else:
-            abort(401)
+            abort(401, description="Kindly check your token.")
