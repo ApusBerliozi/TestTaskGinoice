@@ -1,0 +1,12 @@
+flask
+apispec
+alembic
+web3
+pycryptodome
+flask_sqlalchemy
+psycopg2
+PyJWT
+apispec-webframeworks
+marshmallow
+swagger-ui-py
+
